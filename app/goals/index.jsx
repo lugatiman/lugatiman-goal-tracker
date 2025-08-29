@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 const Goals = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.title}>Your Goals</Text>
+      <Text style={styles.title}>My World</Text>
 
     </SafeAreaView>
   )
